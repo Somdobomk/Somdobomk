@@ -18,7 +18,7 @@ My name is Somdobomk. Thank you for taking the time to view my GitHub profile. ð
 
 ## Skills <img src = "https://user-images.githubusercontent.com/3749153/129705713-39fb8948-e6b4-4968-a074-b7c006b5065c.gif" width = 32px>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/centos.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/centos.svg" /> </span>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dell.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
@@ -39,4 +39,4 @@ My name is Somdobomk. Thank you for taking the time to view my GitHub profile. ð
 <a href="https://github.com/Somdobomk"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" /></a>
 <a href="https://www.linkedin.com/in/davidzapicojr/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/somdobomk"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" /></a>
-<a href="https://david.zapico.tech"> <img src="https://user-images.githubusercontent.com/3749153/129704809-43146c03-b9b0-4083-90fd-751f4be095b6.png" width = "40px"></a>
+<a href="http://david.zapico.tech"> <img src="https://user-images.githubusercontent.com/3749153/129704809-43146c03-b9b0-4083-90fd-751f4be095b6.png" width = "40px"></a>
