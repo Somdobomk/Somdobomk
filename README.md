@@ -1,10 +1,10 @@
-# <img src = "" width = 50px> Hi there < Devs />!
+# <img src = "![wave](https://user-images.githubusercontent.com/3749153/129704198-f9f82978-5386-4c1a-808b-4f2c326c6d4d.gif)" width = 50px> Hi there < Devs />!
 
 ### My name is Somdobomk. Thank you for taking the time to view my GitHub profile. 😬
 
 ## About Me
 
-<img width="35%" align="right" src="" />
+<img width="35%" align="right" src="![undraw_static_website_0107](https://user-images.githubusercontent.com/3749153/129704673-eeeec06e-98fc-4ebd-a6c6-040fea32af07.png)" />
 
 - 👨🏻‍💻 I’m currently working on many projects.
 
@@ -39,4 +39,4 @@
 <a href="https://github.com/Somdobomk"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" /></a>
 <a href="https://www.linkedin.com/in/davidzapicojr/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/somdobomk"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" /></a>
-<a href="https://david.zapico.tech"> <img src=""></a>
+<a href="https://david.zapico.tech"> <img src="![laptop-code-solid](https://user-images.githubusercontent.com/3749153/129704809-43146c03-b9b0-4083-90fd-751f4be095b6.png)"></a>
