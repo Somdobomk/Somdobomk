@@ -1,8 +1,43 @@
-### Hi there 👋, my name is Somdobomk
+# <img src = "" width = 50px> Hi there < Devs />!
 
-Skills: <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+### My name is Somdobomk. Thank you for taking the time to view my GitHub profile. 😬
 
-- 🔭 I’m currently working on this page and my website. 
-- ⚡ Fun fact: I used to pew pew pew. 
+## About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Somdobomk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/somdobomk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14629675/somdobomk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/somdobomk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://somdobomk.github.io)  
+<img width="35%" align="right" src="" />
+
+- 👨🏻‍💻 I’m currently working on many projects.
+
+- I'm currently learning Front-End Web Development.
+
+- I have my own Home Lab for all my projects.
+
+- 😎 Fun Fact: I'm the best BBQ Pitmaster on my block.
+
+- 💬 Talk to me about anything!
+
+## Skills <img src = "" width = 32px>
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/centos.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dell.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/npm.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/wordpress.svg" />
+
+## Connect with me <img src = "" width = "100px">
+
+<a href="https://community.codenewbie.org/somdobomk"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codenewbie.svg" /></a>
+<a href="https://dev.to/somdobomk"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/devdotto.svg" /></a>
+<a href="https://hashnode.com/@somdobomk"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hashnode.svg" />
+<a href="https://github.com/Somdobomk"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" /></a>
+<a href="https://www.linkedin.com/in/davidzapicojr/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/somdobomk"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" /></a>
+<a href="https://david.zapico.tech"> <img src="fa-laptop-code.svg"></a>
