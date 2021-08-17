@@ -18,8 +18,7 @@
 
 ## Skills <img src = "" width = 32px>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/centos.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/archlinux.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/centos.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dell.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
@@ -40,4 +39,4 @@
 <a href="https://github.com/Somdobomk"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" /></a>
 <a href="https://www.linkedin.com/in/davidzapicojr/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/somdobomk"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" /></a>
-<a href="https://david.zapico.tech"> <img src="fa-laptop-code.svg"></a>
+<a href="https://david.zapico.tech"> <img src=""></a>
