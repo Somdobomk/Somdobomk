@@ -1,13 +1,13 @@
 # <img src = "https://user-images.githubusercontent.com/3749153/129704198-f9f82978-5386-4c1a-808b-4f2c326c6d4d.gif" width = 50px> Hi there < Devs />!
 
-I'm a Frontend Web Dev and a Cybersecurity Analyst.
+I'm a Cybersecurity Analyst and Frontend Web Developer.
 
 ## About Me
 
 - Improving previous projects and creating new ones.
 
 - I have my own Dell Home Lab for all my projects. 
-- 
+
 <img alt="dell" src="https://img.shields.io/badge/dell-007DB8.svg?&style=for-the-badge&logo=dell&logoColor=white" />  <img alt="arch linux" src="https://img.shields.io/badge/archlinux-1793D1.svg?&style=for-the-badge&logo=archlinux&logoColor=white" />  <img alt="centos" src="https://img.shields.io/badge/centos-262577.svg?&style=for-the-badge&logo=centos&logoColor=white" />  <img alt="pfsense" src="https://img.shields.io/badge/pfsense-212121.svg?&style=for-the-badge&logo=pfsense&logoColor=white" />
 
 
