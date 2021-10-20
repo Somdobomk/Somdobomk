@@ -6,7 +6,7 @@ I'm a Cybersecurity Analyst and Frontend Web Developer.
 
 - Improving previous projects and creating new ones.
 
-- I have my own Dell Home Lab for all my projects. 
+- I have my own Dell Home Lab for all my projects.
 
 <img alt="dell" src="https://img.shields.io/badge/dell-007DB8.svg?&style=for-the-badge&logo=dell&logoColor=white" />  <img alt="arch linux" src="https://img.shields.io/badge/archlinux-1793D1.svg?&style=for-the-badge&logo=archlinux&logoColor=white" />  <img alt="centos" src="https://img.shields.io/badge/centos-262577.svg?&style=for-the-badge&logo=centos&logoColor=white" />  <img alt="pfsense" src="https://img.shields.io/badge/pfsense-212121.svg?&style=for-the-badge&logo=pfsense&logoColor=white" />
 
@@ -18,5 +18,3 @@ I'm a Cybersecurity Analyst and Frontend Web Developer.
 ## Connect with me <img src = "https://user-images.githubusercontent.com/3749153/129705787-f8a9112a-e757-43a4-a88d-a1a574f0c185.gif" width = "75px">
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davidzapicojr)
-
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/somdobomk)
