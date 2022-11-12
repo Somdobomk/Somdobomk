@@ -1,15 +1,1 @@
-```js
-import { SoftwareDeveloper } from '@somdobomk';
-
-class Bio extends SoftwareDeveloper {
-  name     = 'David Zapico';
-  title    = 'Fullstack Web Developer';
-  location = 'San Antonio, TX';
-  website  = 'https://david.zapico.tech';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript'];
-  frameworks = ['React', 'Next', 'TailwindCSS'];
-}
-```
+![code](https://user-images.githubusercontent.com/3749153/201454397-af5c4519-cf25-46b7-b530-ae05c6892827.png)
